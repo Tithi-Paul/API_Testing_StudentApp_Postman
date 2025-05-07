@@ -1,0 +1,519 @@
+{
+  "students": [
+    {
+      "name": "Hridoy",
+      "location": "Bangladesh",
+      "phone": "01708609927",
+      "courses": [
+        "Python",
+        "DSA"
+      ],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "USA",
+      "phone": "9876543210",
+      "courses": [
+        "Python",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tithi Paul",
+      "location": "Bangladesh",
+      "phone": "01700000000",
+      "courses": [
+        "Postman",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Emma",
+      "location": "Australia",
+      "phone": "01174285385",
+      "courses": [
+        "API Testing",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Olivia",
+      "location": "Canada",
+      "phone": "01685348766",
+      "courses": [
+        "MySQL",
+        "Java"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Emma",
+      "location": "Bangladesh",
+      "phone": "01622971247",
+      "courses": [
+        "C++",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Isabella",
+      "location": "USA",
+      "phone": "01843196163",
+      "courses": [
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Liam",
+      "location": "Nepal",
+      "phone": "01480697782",
+      "courses": [
+        "API Testing",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Olivia",
+      "location": "USA",
+      "phone": "01986886154",
+      "courses": [
+        "API Testing",
+        "Java"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Sara",
+      "location": "UK",
+      "phone": "01389848088",
+      "courses": [
+        "Postman",
+        "Java"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Amit",
+      "location": "UK",
+      "phone": "01578890048",
+      "courses": [
+        "Postman",
+        "Java"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Sophia",
+      "location": "India",
+      "phone": "01392356202",
+      "courses": [
+        "Manual Testing",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Noah",
+      "location": "Australia",
+      "phone": "01525107033",
+      "courses": [
+        "Selenium",
+        "Postman"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Isabella",
+      "location": "UK",
+      "phone": "01327647038",
+      "courses": [
+        "Manual Testing",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Liam",
+      "location": "Nepal",
+      "phone": "01397832555",
+      "courses": [
+        "Selenium",
+        "Postman"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Ava",
+      "location": "Australia",
+      "phone": "01638468534",
+      "courses": [
+        "Manual Testing",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Liam",
+      "location": "Canada",
+      "phone": "01155627109",
+      "courses": [
+        "API Testing",
+        "Java"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Isabella",
+      "location": "UK",
+      "phone": "01196550139",
+      "courses": [
+        "Manual Testing",
+        "Postman"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Amit",
+      "location": "Canada",
+      "phone": "01375803893",
+      "courses": [
+        "API Testing",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Sophia",
+      "location": "USA",
+      "phone": "01960331536",
+      "courses": [
+        "Python",
+        "Postman"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Sophia",
+      "location": "Canada",
+      "phone": "01145094425",
+      "courses": [
+        "Selenium",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Sara",
+      "location": "India",
+      "phone": "01535954668",
+      "courses": [
+        "C++",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Amit",
+      "location": "India",
+      "phone": "01756332149",
+      "courses": [
+        "Manual Testing",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Olivia",
+      "location": "Australia",
+      "phone": "01855207552",
+      "courses": [
+        "Manual Testing",
+        "Python"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Mia",
+      "location": "India",
+      "phone": "01662194654",
+      "courses": [
+        "Selenium",
+        "Postman"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Mia",
+      "location": "UK",
+      "phone": "01789972769",
+      "courses": [
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Isabella",
+      "location": "Bangladesh",
+      "phone": "01966706852",
+      "courses": [
+        "MySQL",
+        "Postman"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Emma",
+      "location": "Canada",
+      "phone": "01800492567",
+      "courses": [
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Ava",
+      "location": "UK",
+      "phone": "01436603164",
+      "courses": [
+        "Manual Testing",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Amit",
+      "location": "India",
+      "phone": "01224519265",
+      "courses": [
+        "API Testing",
+        "Python"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Olivia",
+      "location": "Canada",
+      "phone": "01322763505",
+      "courses": [
+        "Python",
+        "Java"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Isabella",
+      "location": "USA",
+      "phone": "01535327818",
+      "courses": [
+        "Python",
+        "C++"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Sophia",
+      "location": "Canada",
+      "phone": "01575578066",
+      "courses": [
+        "Manual Testing",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "Mia",
+      "location": "UK",
+      "phone": "01339929426",
+      "courses": [
+        "API Testing",
+        "Java"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Noah",
+      "location": "Nepal",
+      "phone": "01704855136",
+      "courses": [
+        "Java",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Sophia",
+      "location": "USA",
+      "phone": "01298385734",
+      "courses": [
+        "Manual Testing",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Sophia",
+      "location": "Nepal",
+      "phone": "01480970211",
+      "courses": [
+        "MySQL",
+        "C++"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Amit",
+      "location": "Australia",
+      "phone": "01752354855",
+      "courses": [
+        "C++",
+        "Postman"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Sara",
+      "location": "Bangladesh",
+      "phone": "01266227819",
+      "courses": [
+        "API Testing",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "Emma",
+      "location": "India",
+      "phone": "01146310319",
+      "courses": [
+        "Postman",
+        "API Testing"
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Amit",
+      "location": "Canada",
+      "phone": "01471395841",
+      "courses": [
+        "Selenium",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Olivia",
+      "location": "India",
+      "phone": "01949203472",
+      "courses": [
+        "Python",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Ava",
+      "location": "Bangladesh",
+      "phone": "01226280653",
+      "courses": [
+        "Manual Testing",
+        "Java"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Noah",
+      "location": "USA",
+      "phone": "01299532217",
+      "courses": [
+        "Selenium",
+        "Java"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Noah",
+      "location": "UK",
+      "phone": "01357313391",
+      "courses": [
+        "Java",
+        "C++"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "Mia",
+      "location": "Canada",
+      "phone": "01223068079",
+      "courses": [
+        "Java",
+        "Python"
+      ]
+    },
+    {
+      "id": "4236",
+      "name": "Tithi Paul",
+      "location": "Bangladesh",
+      "phone": "01712345678",
+      "courses": [
+        "API Testing",
+        "Postman",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "edf5",
+      "name": "Tithi Paul",
+      "location": "Bangladesh",
+      "phone": "01712345678",
+      "courses": [
+        "API Testing",
+        "Postman",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "4096",
+      "name": "Tithi Paul",
+      "location": "Bangladesh",
+      "phone": "01712345678",
+      "courses": [
+        "API Testing",
+        "Postman",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "b92b",
+      "name": "Tithi Paul",
+      "location": "Bangladesh",
+      "phone": "01712345678",
+      "courses": [
+        "API Testing",
+        "Postman",
+        "Manual Testing"
+      ]
+    },
+    {
+      "id": "22ac",
+      "name": "Tithi Paul",
+      "location": "Bangladesh",
+      "phone": "01712345678",
+      "courses": [
+        "API Testing",
+        "Postman",
+        "Manual Testing"
+      ]
+    }
+  ]
+}
