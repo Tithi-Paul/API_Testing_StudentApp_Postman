@@ -108,13 +108,13 @@ newman run Student_API_Collection.postman_collection.json --reporters cli,htmlex
 
 ---
 
-## 🙋‍♀️ Author
+## 👩‍💻 Author
 
 **Tithi Paul**  
-Aspiring Software QA Engineer  
-🎓 MSc in Advanced Computer Science — University of Sheffield 
-email: tithi.cse3.bu@gmail.com
-
+🧪 Aspiring Software QA Engineer  
+🎓 MSc in Advanced Computer Science — University of Sheffield  
+📧 Email: [tithi.cse3.bu@gmail.com](mailto:tithi.cse3.bu@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tithi-paul/)
 
 ---
 
