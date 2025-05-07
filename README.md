@@ -114,7 +114,7 @@ newman run Student_API_Collection.postman_collection.json --reporters cli,htmlex
 🧪 Aspiring Software QA Engineer  
 🎓 MSc in Advanced Computer Science — University of Sheffield  
 📧 Email: [tithi.cse3.bu@gmail.com](mailto:tithi.cse3.bu@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tithi-paul/)
+🔗 [LinkedIn](https://www.linkedin.com/in/paultithi/)
 
 ---
 
